@@ -1,0 +1,9 @@
+*.onnx
+.vscode
+.idea
+*.pyc
+tests/events
+tests/failures
+instances/test_failures
+instances/tests_failed
+instances/tests_passed
